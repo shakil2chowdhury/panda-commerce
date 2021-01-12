@@ -1,2 +1,2 @@
 # panda-commerce
-Bootstrap Ecommerce site
+Bootstrap Ecommerce site .
