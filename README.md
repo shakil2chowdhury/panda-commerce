@@ -1,3 +1,3 @@
 # panda-commerce
-Bootstrap Ecommerce site .
+Simple Ecommerce Website Created With HTML CSS BOOTSTRAP.
 [Live Link](https://shakil2chowdhury.github.io/panda-commerce/)
